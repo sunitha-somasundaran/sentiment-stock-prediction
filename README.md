@@ -18,7 +18,11 @@ Reddit.csv - Textual data (from 2008-06-08 to 2015-07-01): Collected using Reddi
 
 Final code:
 
+Jupyter notebook version - final-code.ipynb
+python version - final-code.py
 
+
+Previous versions that were submitted to supervisor via email:
 
 
 
