@@ -24,5 +24,10 @@ python version - final-code.py
 
 Previous versions that were submitted to supervisor via email:
 
+first-version.ipynb  -  contains basic EDA
+second-version.ipynb - contains stock prediction without using sentiment score
+third version.ipynb  -  contains prediction using only the sentiment score and closing price.
 
+
+The final code contains the comparision of stock price prediction using LSTM when using only the closing price as input and also by using both closing price and sentiment score as input.
 
